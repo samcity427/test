@@ -11,7 +11,7 @@ section article {
     height: 50%;
     background-repeat: no-repeat;
     background-position: center center;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
 }
 section article:nth-of-type(1) {
     background-image: url(../img/car1.jpg);
